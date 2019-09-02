@@ -2,12 +2,12 @@
 Repository for web application project (Internet Programming)
 
 ## Members
-Lim Wei Liang (G1801198E)
-Hnin Hsu Han Thar Kyaw (G1901686H)
-Wang Zhiyuan (G1901655F)
-Liu Fang (G1901988H)
-Ye Lynn Khant (G1901531J)
-Chun Xiao (G1901552B)
+1. Lim Wei Liang (G1801198E)
+2. Hnin Hsu Han Thar Kyaw (G1901686H)
+3. Wang Zhiyuan (G1901655F)
+4. Liu Fang (G1901988H)
+5. Ye Lynn Khant (G1901531J)
+6. Chun Xiao (G1901552B)
 
-## Document files for the projects
-[Google Doc Link](https://drive.google.com/drive/u/0/folders/1CBsqMFhBZEjkUuYLhTHjZ11E0ZKMwTE8)
+### Document files for the projects
+[Google Drive Access Link](https://drive.google.com/drive/u/0/folders/1CBsqMFhBZEjkUuYLhTHjZ11E0ZKMwTE8)
